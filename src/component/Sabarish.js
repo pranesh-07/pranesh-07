@@ -8,7 +8,7 @@ class Sabarish extends React.Component{
             }
 
             this.setState={
-                name:"sabarish"
+                name:"sabarish pradheep"
             }
         
     }
